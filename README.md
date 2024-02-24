@@ -1,4 +1,4 @@
-# Fill-Stack-Tumor-Detector
+# Full-Stack-Tumor-Detector
 upload an MRI of the brain 
 
 Trained Model using: 
